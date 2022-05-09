@@ -15,25 +15,25 @@
   <img align="left" alt="Shivam Sharma's LinkdeIN" width="22px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
 </a>
 
-<a href="https://github.com/ShivamSharmaDeveloper">
+<a href="https://github.com/mittal25">
 <img align="left" alt="Shivam Sharma's Github" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100008167218261">
+<a href="https://www.facebook.com/tanya.mittal.33633">
 <img align="left" alt="Shivam Sharma's Facebook" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">
 </a>
 
-<a href="https://www.instagram.com/_swagy.dude/">
+<a href="https://www.instagram.com/tanya_mittal26/">
 <img align="left" alt="Shivam Sharma's Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
 
-<a href="shivsharma7821@gmail.com">
+<a href="tmittal0810@gmail.com">
 <img align="left" alt="Shivam Sharma's Gmail" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
-
+<!-- 
 <a href="https://www.youtube.com/channel/UCRY6l4-atqPLS83DZXgQvYA">
 <img align="left" alt="Shivam Sharma's Youtube channel" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">
-</a>
+</a> -->
 
 <br>
 <br>
@@ -45,9 +45,9 @@
 <li>👨🏻&zwj;💻 I’m looking to collaborate on kick ass products;</li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help;</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Fun-Fact: Anything is possible;</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:shivsharmadevloper@outlook.com">shivsharmadeveloper@outlook.com</a>;</li>
+<!-- <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:shivsharmadevloper@outlook.com">2101560003@outlook.com</a>;</li>
 <li><g-emoji>😎</g-emoji> Born to Code
-</ul>
+</ul> -->
 
 
 **Languages and Tools:**  
