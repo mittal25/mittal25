@@ -61,7 +61,7 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharmaDeveloper&layout=compact&theme=radical" />
 </a>
 
-[![Shivam Sharma's github stats](https://github-readme-stats.vercel.app/api?username=ShivamSharmaDeveloper&show_icons=true&theme=radical)](https://github.com/ShivamSharmaDeveloper/ShivamSharmaDeveloper)
+[![Tanya Mittal's github stats](https://github-readme-stats.vercel.app/api?username=Tanya-Mittal-Byte&show_icons=true&theme=radical)](https://github.com/Tanya-Mittal-Byte/Tanya-Mittal-Byte)
 
 
 
